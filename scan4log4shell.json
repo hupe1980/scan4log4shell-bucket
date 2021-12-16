@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/hupe1980/scan4log4shell/releases/download/v0.2.0/scan4log4shell_Windows_i386.zip",
+            "bin": [
+                "scan4log4shell.exe"
+            ],
+            "hash": "51fa330961797f6917b7dceba486fefc1aced300441276fefde816876948a33f"
+        },
+        "64bit": {
+            "url": "https://github.com/hupe1980/scan4log4shell/releases/download/v0.2.0/scan4log4shell_Windows_x86_64.zip",
+            "bin": [
+                "scan4log4shell.exe"
+            ],
+            "hash": "4307f61f355509c82e8f06cd04934c8f3d00fa47424bca7007646286430d32a1"
+        }
+    },
+    "homepage": "https://github.com/hupe1980/scan4log4shell",
+    "license": "MIT",
+    "description": "Scanner to detect vulnerable log4j versions on your file-system or to send specially crafted requests and catch callbacks of systems that are impacted by log4j log4shell vulnerability (CVE-2021-44228)"
+}
