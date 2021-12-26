@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hupe1980/scan4log4shell/releases/download/v1.1.0/scan4log4shell_Windows_i386.zip",
+            "url": "https://github.com/hupe1980/scan4log4shell/releases/download/v1.1.1/scan4log4shell_Windows_i386.zip",
             "bin": [
                 "scan4log4shell.exe"
             ],
-            "hash": "508647266ef4dec05fd865f3e42d25adf35691e36001f315738b85ebd0c0fc93"
+            "hash": "c3f27aeb2175080ab8dc0e2ef06ea61f0bd80f31a65bea876477764589c92f34"
         },
         "64bit": {
-            "url": "https://github.com/hupe1980/scan4log4shell/releases/download/v1.1.0/scan4log4shell_Windows_x86_64.zip",
+            "url": "https://github.com/hupe1980/scan4log4shell/releases/download/v1.1.1/scan4log4shell_Windows_x86_64.zip",
             "bin": [
                 "scan4log4shell.exe"
             ],
-            "hash": "07f602b746bcdfef50db1fe61c702c398a6cb13b6617e5f071ece9dd1f43b5da"
+            "hash": "ecc1e2c99e9f74ebd0338d399ac3b8dca4773697d8c71265f6c8a9f2d3898098"
         }
     },
     "homepage": "https://github.com/hupe1980/scan4log4shell",
