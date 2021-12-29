@@ -1,22 +1,22 @@
 {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hupe1980/scan4log4shell/releases/download/v1.1.2/scan4log4shell_Windows_i386.zip",
+            "url": "https://github.com/hupe1980/scan4log4shell/releases/download/v1.1.3/scan4log4shell_Windows_i386.zip",
             "bin": [
                 "scan4log4shell.exe"
             ],
-            "hash": "a04538f230782e8605fb534cd19ac56e389ac49163308c8a944fcd34addd0413"
+            "hash": "124a17fb6b60144e15c6871c8d833418b724f96583d00cf68b281cd61ebda460"
         },
         "64bit": {
-            "url": "https://github.com/hupe1980/scan4log4shell/releases/download/v1.1.2/scan4log4shell_Windows_x86_64.zip",
+            "url": "https://github.com/hupe1980/scan4log4shell/releases/download/v1.1.3/scan4log4shell_Windows_x86_64.zip",
             "bin": [
                 "scan4log4shell.exe"
             ],
-            "hash": "16c2e6b95e851d0aa85e970dcf4e94c9335f368c0ed81648528b4306756f5e8e"
+            "hash": "1dc657d0b9a129e7c7c2108917f76272401167686376ab1923b10a207356ee1c"
         }
     },
     "homepage": "https://github.com/hupe1980/scan4log4shell",
     "license": "MIT",
-    "description": "Scanner to detect vulnerable log4j versions on your file-system or to send specially crafted requests and catch callbacks of systems that are impacted by log4j log4shell vulnerability"
+    "description": "Scanner to send specially crafted requests and catch callbacks of systems that are impacted by log4j log4shell vulnerability and to detect vulnerable log4j versions on your local file-system"
 }
